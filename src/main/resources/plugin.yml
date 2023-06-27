@@ -1,0 +1,4 @@
+name: OceanHCF
+version: '${project.version}'
+main: org.oceanmc.OceanHCF
+api-version: '1.20'
